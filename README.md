@@ -1,5 +1,5 @@
-# pytorch-multimodal_sarcasm_detection
-It is the pytorch implementation of paper "Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model"
+# Translating-Embeddings-for-Modeling-Multi-relational-Data
+It is the java implementation of paper "Translating embeddings for modeling multi-relational data"
 # Overview
 ![20201124181750](https://user-images.githubusercontent.com/7517810/100162354-667c1980-2e81-11eb-9d6c-327c47784df0.png)
 
